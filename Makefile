@@ -1,4 +1,4 @@
-PREFIX=meetup
+PREFIX=cfndsl
 ENV=dev
 ARTIFACTS_BUCKET=aws-auckland-meetup # Your artifacts bucket name
 
